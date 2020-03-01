@@ -1,0 +1,25 @@
+h2.headline{
+  color: white;
+  font-style: italic;
+  text-align: center;
+  font : oblique 40px Arial, Helvetica, sans-serif;
+}
+
+p.Welcome{
+  color: white;
+  font : oblique 14px Arial, Helvetica, sans-serif;
+}
+
+
+p.ff{
+  color: white;
+  font : oblique 25px Arial, Helvetica, sans-serif;
+}
+
+p{
+  text-align: center;
+}
+
+body{
+  background-color: #171A19;
+}
